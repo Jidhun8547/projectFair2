@@ -55,7 +55,7 @@ function Add() {
 
     }
     else{
-      setPreview("https://cdn.icon-icons.com/icons2/607/PNG/512/images-interface-symbol_icon-icons.com_56287.png")
+      setPreview("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fimage-symbol-icon-vector%2F&psig=AOvVaw1aYfnsPQ9d-ZFWiXrxapPU&ust=1738746207487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjxpMPUqYsDFQAAAAAdAAAAABAE")
       setImgFileStatus(false)
       setProjectDetails({...projectDetails,projectImg:""})
     }
